@@ -35,8 +35,8 @@ Langkah selanjutnya adalah membuat form pencarian.
 ![gambar1](SS/s.3.png)
 Sisipkan kode tersebut pada file index.php (daftar barang), sebelum table data dan sesudah tombol tambah data. <br>
 Lalu rubah querynya dan tambahkan filter pencarian pada query tersebut.
-![gambar2](SS/s.4.png)
+![gambar2](SS/S.4.png)
 Maka Hasilnya akan seperti ini
-![gambar2](SS/s.1.png)
+![gambar2](SS/S.1.png)
 Jika melakukan pencarian hasilnya seperti ini
 ![gambar2](SS/s.2.png)
